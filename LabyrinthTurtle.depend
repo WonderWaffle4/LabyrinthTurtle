@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649281328 source:d:\project\labyrinthturtle\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+
